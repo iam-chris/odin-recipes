@@ -1,0 +1,19 @@
+#main {
+    background-color: lightslategray;
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    justify-content: space-around;
+    margin: auto;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#main img {
+    width: 20em;
+    height: 20em;
+}
