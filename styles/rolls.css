@@ -1,0 +1,30 @@
+#main {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+#main img {
+    width: 500px;
+    height: 420px;
+}
+
+.description {
+    text-align: start;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-top: 50px;
+    margin-left: 15rem;
+}
+
+
+.description p {
+    display: relative;
+}
+
+@media (max-width: 920px) {
+    .description {
+        margin-left: 0;
+    }
+}
