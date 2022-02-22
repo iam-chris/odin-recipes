@@ -1,11 +1,15 @@
 h1 {
     text-align: center;
+    font-family: 'Satisfy', sans-serif;
+    font-size: 2em;
+
 }
 
 .main {
     text-align: center;
     width: 80%;
     margin: auto;
+    font-family: 'Bitter', serif;
 }
 
 .main img {
@@ -21,7 +25,12 @@ h1 {
     margin-left: 15rem;
 }
 
-@media (max-width: 920px) {
+.description h3 {
+    font-family: 'Satisfy', sans-serif;
+
+}
+
+@media (max-width: 795px) {
     .description {
         margin-left: 0;
     }

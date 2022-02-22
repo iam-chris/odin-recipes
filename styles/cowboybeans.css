@@ -2,6 +2,12 @@
     width: 80%;
     text-align: center;
     margin: auto;
+    font-family: 'Bitter', serif;
+}
+
+#main h1 {
+    font-family: 'Satisfy', sans-serif;
+    font-size: 2em;
 }
 
 #main img {
@@ -16,6 +22,11 @@
     flex-direction: column;
     padding-top: 50px;
     margin-left: 15rem;
+}
+
+.description h3 {
+    font-family: 'Satisfy', sans-serif;
+    font-size: 1.5em;
 }
 
 
