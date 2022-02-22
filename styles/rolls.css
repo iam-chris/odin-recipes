@@ -2,11 +2,20 @@
     width: 80%;
     text-align: center;
     margin: auto;
+    font-family: 'Bitter', serif;
+    font-weight: 300;
 }
 
 #main img {
     width: 500px;
     height: 420px;
+}
+
+#main h1,
+.description h3,
+p {
+    font-family: 'Satisfy', 'cursive';
+    font-size: 1.5em;
 }
 
 .description {

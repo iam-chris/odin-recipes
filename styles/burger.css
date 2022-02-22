@@ -2,6 +2,14 @@
     width: 80%;
     text-align: center;
     margin: auto;
+    font-family: 'Bitter';
+    font-weight: 400;
+
+}
+
+#main h1 {
+    font-family: 'Satisfy', sans-serif;
+
 }
 
 #main img {
@@ -15,6 +23,11 @@
     flex-wrap: wrap;
     padding-top: 50px;
     margin-left: 15rem;
+}
+
+.description h2 {
+    font-family: 'Satisfy', sans-serif;
+
 }
 
 @media (max-width: 920px) {
