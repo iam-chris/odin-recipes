@@ -10,13 +10,22 @@
 
 }
 
-h1 {
-    text-align: center;
+#title {
+    text-align: start;
+    font-size: 2rem;
+    font-family: 'Satisfy', sans-serif;
+    padding: 0 2rem;
 }
 
 #main img {
     width: 20em;
     height: 20em;
+    border: 3px solid black;
+}
+
+#main div h2 {
+    font-family: 'Satisfy', sans-serif;
+
 }
 
 .bread h3 {
